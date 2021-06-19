@@ -12,4 +12,4 @@
 
 * **Graduação: Sistemas para internet** | UniAlfa Umuarama-PR |2019 - Em Andamento 
 
-* **Graduação: Sistemas de informação** | Centro Universitário São Lucas Ji-Paraná-RO |2019 - Em Andamento 
+* **Graduação: Sistemas de informação** | Centro Universitário São Lucas Ji-Paraná-RO | 2017 - 2019 (Incompleto) 
