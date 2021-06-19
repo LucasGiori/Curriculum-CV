@@ -14,6 +14,7 @@
 
 * **Graduação: Sistemas de informação** | Centro Universitário São Lucas Ji-Paraná-RO | 2017 - 2019 (Incompleto) 
 
+
 ## Experiência Profissional
 
 * **Desenvolvedor de Software** | GazinTech-PR | fev/2021 - o momento. 
@@ -37,3 +38,15 @@
 * PostgreSQL
 * MySql
 * API's
+
+
+## Projetos Pessoais
+* **Sistema de Gestão Escolar** | Em Andamento. 
+* **Sistema de controle de contenciosos.** | Finalizado.
+
+## Redes Sociais
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgiori)](https://www.linkedin.com/in/lucasgiori/)
+
+* [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucasgiori/)](https://www.instagram.com/lucasgiori/)
+
+>>>>>>> master
